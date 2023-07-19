@@ -204,7 +204,11 @@
   
   /* Navbar
       ============================= */
-   
+  
+  .navbar-menu {
+    float: right;
+  }
+  
   .nav {
     margin: 0;
     padding: 0;
@@ -262,6 +266,13 @@
          background: transparent;
   }
   
+  .header-logo {
+    
+  }
+  
+  .header-logo a {
+    
+  }
   
   /* Footer
       ============================= */
