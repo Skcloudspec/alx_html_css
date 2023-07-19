@@ -182,7 +182,6 @@
   
   .row {
     display: flex;
-
 }
 
   ul.row {
@@ -306,9 +305,11 @@
   }
   
   /*** 3. SECTION ***/
-  
+
+
   /* Section (all styles)
       ============================= */
+  
   
   .section {
     padding: var(--section-padding);
