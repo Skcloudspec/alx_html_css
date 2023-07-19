@@ -185,12 +185,9 @@
     padding: 0;
     list-style: none;
   }
-  
+
   .row {
     display: flex;
-    content: '';
-    display: table;
-    clear: both;
   }
   
   [class*='col-'] {
